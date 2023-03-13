@@ -1,0 +1,8 @@
+C:\Users\raqee\OneDrive\Dokumente\Informatik BBBaden\426\Roulette\Roulette\RouletteGame\obj\Debug\RouletteGame.csproj.AssemblyReference.cache
+C:\Users\raqee\OneDrive\Dokumente\Informatik BBBaden\426\Roulette\Roulette\RouletteGame\obj\Debug\RouletteGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\raqee\OneDrive\Dokumente\Informatik BBBaden\426\Roulette\Roulette\RouletteGame\obj\Debug\RouletteGame.csproj.CoreCompileInputs.cache
+C:\Users\raqee\OneDrive\Dokumente\Informatik BBBaden\426\Roulette\Roulette\RouletteGame\bin\Debug\RouletteGame.exe.config
+C:\Users\raqee\OneDrive\Dokumente\Informatik BBBaden\426\Roulette\Roulette\RouletteGame\bin\Debug\RouletteGame.exe
+C:\Users\raqee\OneDrive\Dokumente\Informatik BBBaden\426\Roulette\Roulette\RouletteGame\bin\Debug\RouletteGame.pdb
+C:\Users\raqee\OneDrive\Dokumente\Informatik BBBaden\426\Roulette\Roulette\RouletteGame\obj\Debug\RouletteGame.exe
+C:\Users\raqee\OneDrive\Dokumente\Informatik BBBaden\426\Roulette\Roulette\RouletteGame\obj\Debug\RouletteGame.pdb
